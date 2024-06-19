@@ -8,6 +8,7 @@ numbers.append(' ')
 numbers.insert(0, ' ')
 bracket = []
 operator = {'^', '*', '/', '+', '-'}
+operator = ['^', '*', '/', '+', '-']
 
 # This loop solves the problem of bracket in the arithmetic problem
 for i in numbers:
